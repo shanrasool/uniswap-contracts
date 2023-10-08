@@ -226,17 +226,17 @@
 		"evmVersion": "istanbul",
 		"libraries": {},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
 	},
 	"sources": {
 		"v2-core-master/contracts/UniswapV2ERC20.sol": {
-			"keccak256": "0x279097c1efa402082f6802b76a26359f010452ce024c4403209b86248330a6cb",
+			"keccak256": "0xfff60fe92955fb7d64bd653eebaf9a95e26c55e31befd13763257c8c3550ecd7",
 			"urls": [
-				"bzz-raw://4b358c2daca5de167527d6dea9bacb90c202161edf7d92d748fcd2f69465ddef",
-				"dweb:/ipfs/QmY8FQE8MtNP3HTv7KtDp3ph7NtUoyEekdfppSW64BmxzT"
+				"bzz-raw://a7398918a2e5cf1651c65cf0bb85d893776718790fc25adeed8a15a1c6363a20",
+				"dweb:/ipfs/Qme26oQGaAQ1DWm9UAgqQysgxtUHYgsyc1RBRhXU6oCQfS"
 			]
 		},
 		"v2-core-master/contracts/UniswapV2Factory.sol": {

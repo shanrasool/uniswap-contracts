@@ -32,7 +32,8 @@
     "rimraf": "^3.0.0",
     "solc": "0.5.16",
     "ts-node": "^8.5.4",
-    "typescript": "^3.7.3"
+    "typescript": "^3.7.3",
+    "hardhat": "latest"
   },
   "scripts": {
     "lint": "yarn prettier ./test/*.ts --check",
